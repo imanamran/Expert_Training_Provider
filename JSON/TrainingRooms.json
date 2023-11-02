@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6446ab9fc1f45f2ba5ddd060"
+  },
+  "trainingRoomID": "36ff467ce7614c9fa48aa77e177044d5",
+  "trainingRoomName": "The Meat Eaters Room",
+  "trainingRoomImageLink": "1",
+  "trainigRoomAvalability": "Available",
+  "trainingRoomCapacity": 28
+},{
+  "_id": {
+    "$oid": "6446ab9fc1f45f2ba5ddd062"
+  },
+  "trainingRoomID": "67620d430c3a4d67b8a2532f8cd2022c",
+  "trainingRoomName": "The Vegeterian Room",
+  "trainingRoomImageLink": "2",
+  "trainigRoomAvalability": "Available",
+  "trainingRoomCapacity": 4
+},{
+  "_id": {
+    "$oid": "6446ab9fc1f45f2ba5ddd063"
+  },
+  "trainingRoomID": "fbf6bc145e504ead8dbb9530540f949b",
+  "trainingRoomName": "The Chicken Mushroom Room",
+  "trainingRoomImageLink": "3",
+  "trainigRoomAvalability": "Available",
+  "trainingRoomCapacity": 18
+},{
+  "_id": {
+    "$oid": "6446ab9fc1f45f2ba5ddd05d"
+  },
+  "trainingRoomID": "5751d7ba567f42619772dde72559861a",
+  "trainingRoomName": "The Pepperoni Room",
+  "trainingRoomImageLink": "4",
+  "trainigRoomAvalability": "Available",
+  "trainingRoomCapacity": 25
+},{
+  "_id": {
+    "$oid": "6446ab9fc1f45f2ba5ddd05f"
+  },
+  "trainingRoomID": "3c1be4070d5a4aa6b1af94f2e984d4ab",
+  "trainingRoomName": "The Pork Onion Room",
+  "trainingRoomImageLink": "5",
+  "trainigRoomAvalability": "Not Available",
+  "trainingRoomCapacity": 20
+},{
+  "_id": {
+    "$oid": "6446ab9fc1f45f2ba5ddd05e"
+  },
+  "trainingRoomID": "32d0b01aa2bc449e8dd8b56e337d53bb",
+  "trainingRoomName": "The Hawaian Room",
+  "trainingRoomImageLink": "6",
+  "trainigRoomAvalability": "Available",
+  "trainingRoomCapacity": 25
+},{
+  "_id": {
+    "$oid": "6446ab9fc1f45f2ba5ddd061"
+  },
+  "trainingRoomID": "5751d7ba567f42619772dde72559861a",
+  "trainingRoomName": "The Deluxe Cheese Room",
+  "trainingRoomImageLink": "7",
+  "trainigRoomAvalability": "Available",
+  "trainingRoomCapacity": 25
+}]

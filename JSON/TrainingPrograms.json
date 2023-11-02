@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "6451c37c13a91b3418b7286c"
+  },
+  "trainingProgramID": "9e2fbf9fd67c410a811d1a2c57eaec7c",
+  "trainingProgramName": "Leadership and Management",
+  "trainingProgramDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue sit amet nibh nec euismod. Fusce aliquam, arcu mollis condimentum suscipit, magna odio suscipit odio, sit amet iaculis mi lectus faucibus enim. Phasellus vehicula libero dapibus dignissim bibendum. Etiam volutpat vitae libero quis luctus. Duis placerat diam erat. Maecenas vitae mi vitae justo finibus rutrum.",
+  "trainingProgramImagePath": "leadership.jpg",
+  "trainingProgramPrice": "$ 250",
+  "trainingProgramDate": "23/06/2020",
+  "trainingProgramTime": "8:00am - 10:00am",
+  "trainingProgramDuration": "2 hours",
+  "trainingTutorName": "Mark Twain",
+  "trainingEmployeeId": "81b4a50e0d31477e987fb7d9b757838f"
+},{
+  "_id": {
+    "$oid": "6451c37c13a91b3418b7286d"
+  },
+  "trainingProgramID": "8a2fe2d45a2a4977a386ad8617f5d2e3",
+  "trainingProgramName": "Business Communication",
+  "trainingProgramDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue sit amet nibh nec euismod. Fusce aliquam, arcu mollis condimentum suscipit, magna odio suscipit odio, sit amet iaculis mi lectus faucibus enim. Phasellus vehicula libero dapibus dignissim bibendum. Etiam volutpat vitae libero quis luctus. Duis placerat diam erat. Maecenas vitae mi vitae justo finibus rutrum.",
+  "trainingProgramImagePath": "business-communication.jpg",
+  "trainingProgramPrice": "$ 150",
+  "trainingProgramDate": "14/08/2020",
+  "trainingProgramTime": "9:00am - 11:00am",
+  "trainingProgramDuration": "2 hours",
+  "trainingTutorName": "Anna Kanade",
+  "trainingEmployeeId": "81b4a50e0d31477e987fb7d9b757838f"
+},{
+  "_id": {
+    "$oid": "6451c37c13a91b3418b7286e"
+  },
+  "trainingProgramID": "d266b6440ffb4032b2feffbdcd94a551",
+  "trainingProgramName": "Business Writing",
+  "trainingProgramDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue sit amet nibh nec euismod. Fusce aliquam, arcu mollis condimentum suscipit, magna odio suscipit odio, sit amet iaculis mi lectus faucibus enim. Phasellus vehicula libero dapibus dignissim bibendum. Etiam volutpat vitae libero quis luctus. Duis placerat diam erat. Maecenas vitae mi vitae justo finibus rutrum.",
+  "trainingProgramImagePath": "business-writing.jpg",
+  "trainingProgramPrice": "$ 200",
+  "trainingProgramDate": "12/09/2020",
+  "trainingProgramTime": "10:00am - 12:00pm",
+  "trainingProgramDuration": "2 hours",
+  "trainingTutorName": "John Doe",
+  "trainingEmployeeId": "81b4a50e0d31477e987fb7d9b757838f"
+},{
+  "_id": {
+    "$oid": "6451c37c13a91b3418b7286f"
+  },
+  "trainingProgramID": "edfd361b238c47e78ec4e23d85979307",
+  "trainingProgramName": "Business Etiquette",
+  "trainingProgramDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue sit amet nibh nec euismod. Fusce aliquam, arcu mollis condimentum suscipit, magna odio suscipit odio, sit amet iaculis mi lectus faucibus enim. Phasellus vehicula libero dapibus dignissim bibendum. Etiam volutpat vitae libero quis luctus. Duis placerat diam erat. Maecenas vitae mi vitae justo finibus rutrum.",
+  "trainingProgramImagePath": "business-etiquette.jpg",
+  "trainingProgramPrice": "$ 100",
+  "trainingProgramDate": "15/10/2020",
+  "trainingProgramTime": "11:00am - 1:00pm",
+  "trainingProgramDuration": "2 hours",
+  "trainingTutorName": "Jane Doe",
+  "trainingEmployeeId": "81b4a50e0d31477e987fb7d9b757838f"
+},{
+  "_id": {
+    "$oid": "6451c37c13a91b3418b72870"
+  },
+  "trainingProgramID": "0a81797648594934a35a20d88d8b06d6",
+  "trainingProgramName": "Business Analysis",
+  "trainingProgramDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue sit amet nibh nec euismod. Fusce aliquam, arcu mollis condimentum suscipit, magna odio suscipit odio, sit amet iaculis mi lectus faucibus enim. Phasellus vehicula libero dapibus dignissim bibendum. Etiam volutpat vitae libero quis luctus. Duis placerat diam erat. Maecenas vitae mi vitae justo finibus rutrum.",
+  "trainingProgramImagePath": "business-analysis.jpg",
+  "trainingProgramPrice": "$ 300",
+  "trainingProgramDate": "18/11/2020",
+  "trainingProgramTime": "12:00pm - 2:00pm",
+  "trainingProgramDuration": "2 hours",
+  "trainingTutorName": "Mickey Jones",
+  "trainingEmployeeId": "81b4a50e0d31477e987fb7d9b757838f"
+},{
+  "_id": {
+    "$oid": "6451c37c13a91b3418b72871"
+  },
+  "trainingProgramID": "5d7ffc3751214b46b5e763a003968121",
+  "trainingProgramName": "Strategy and Innovation",
+  "trainingProgramDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue sit amet nibh nec euismod. Fusce aliquam, arcu mollis condimentum suscipit, magna odio suscipit odio, sit amet iaculis mi lectus faucibus enim. Phasellus vehicula libero dapibus dignissim bibendum. Etiam volutpat vitae libero quis luctus. Duis placerat diam erat. Maecenas vitae mi vitae justo finibus rutrum.",
+  "trainingProgramImagePath": "strategy-and-innovation.jpg",
+  "trainingProgramPrice": "$ 350",
+  "trainingProgramDate": "20/12/2020",
+  "trainingProgramTime": "1:00pm - 3:00pm",
+  "trainingProgramDuration": "2 hours",
+  "trainingTutorName": "Minnie Jones",
+  "trainingEmployeeId": "81b4a50e0d31477e987fb7d9b757838f"
+},{
+  "_id": {
+    "$oid": "6451c37c13a91b3418b72872"
+  },
+  "trainingProgramID": "60ea8e87fe784db8abf6f76da95e5aa5",
+  "trainingProgramName": "Emotional Intelligence",
+  "trainingProgramDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue sit amet nibh nec euismod. Fusce aliquam, arcu mollis condimentum suscipit, magna odio suscipit odio, sit amet iaculis mi lectus faucibus enim. Phasellus vehicula libero dapibus dignissim bibendum. Etiam volutpat vitae libero quis luctus. Duis placerat diam erat. Maecenas vitae mi vitae justo finibus rutrum.",
+  "trainingProgramImagePath": "emotional-intelligence.jpg",
+  "trainingProgramPrice": "$ 250",
+  "trainingProgramDate": "22/01/2021",
+  "trainingProgramTime": "2:00pm - 4:00pm",
+  "trainingProgramDuration": "2 hours",
+  "trainingTutorName": "Mickey Mouse",
+  "trainingEmployeeId": "81b4a50e0d31477e987fb7d9b757838f"
+},{
+  "_id": {
+    "$oid": "6451c37c13a91b3418b72873"
+  },
+  "trainingProgramID": "bbe71ac8bca34fa8b89f8726ac4d4a5d",
+  "trainingProgramName": "Management Information Systems",
+  "trainingProgramDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue sit amet nibh nec euismod. Fusce aliquam, arcu mollis condimentum suscipit, magna odio suscipit odio, sit amet iaculis mi lectus faucibus enim. Phasellus vehicula libero dapibus dignissim bibendum. Etiam volutpat vitae libero quis luctus. Duis placerat diam erat. Maecenas vitae mi vitae justo finibus rutrum.",
+  "trainingProgramImagePath": "mis.jpg",
+  "trainingProgramPrice": "$ 400",
+  "trainingProgramDate": "24/02/2021",
+  "trainingProgramTime": "3:00pm - 5:00pm",
+  "trainingProgramDuration": "2 hours",
+  "trainingTutorName": "Minnie Mouse",
+  "trainingEmployeeId": "81b4a50e0d31477e987fb7d9b757838f"
+}]

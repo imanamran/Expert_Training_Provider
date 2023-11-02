@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "6462770fee9c9e0ffef7e25c"
+  },
+  "employeeID": "81b4a50e0d31477e987fb7d9b757838f",
+  "employeeName": "John",
+  "employeeEmail": "john@gmail.com",
+  "employeePassword": "5678",
+  "listOfRequests": [
+    {
+      "requestID": "2e39cb",
+      "requestCompanyName": "Hubridy",
+      "requestProgramID": "bbe71ac8bca34fa8b89f8726ac4d4a5d",
+      "requestPaymentType": "Cash",
+      "requestPaymentStatus": "Awaiting payment",
+      "requestStatus": "Confirmed",
+      "requestSelectedDate": "2023-05-24",
+      "requestNumberOfAtteendes": "4",
+      "requestNeedRoom": "True",
+      "requestRoomName": "The Pepperoni Room"
+    },
+    {
+      "requestID": "b95d0f",
+      "requestCompanyName": "Swinburne",
+      "requestProgramID": "8a2fe2d45a2a4977a386ad8617f5d2e3",
+      "requestPaymentType": "Cash",
+      "requestPaymentStatus": "Awaiting payment",
+      "requestStatus": "Denied",
+      "requestSelectedDate": "2023-05-24",
+      "requestNumberOfAtteendes": "5",
+      "requestNeedRoom": "True",
+      "requestRoomName": "The Pepperoni Room"
+    },
+    {
+      "requestID": "2ba924",
+      "requestCompanyName": "Hubridy",
+      "requestProgramID": "edfd361b238c47e78ec4e23d85979307",
+      "requestPaymentType": "Invoice",
+      "requestPaymentStatus": "Awaiting payment",
+      "requestStatus": "Cancelled",
+      "requestSelectedDate": "2023-05-24",
+      "requestNumberOfAtteendes": "3",
+      "requestNeedRoom": "True",
+      "requestRoomName": "The Meat Eaters Room"
+    },
+    {
+      "requestID": "750f08",
+      "requestCompanyName": "Swian",
+      "requestProgramID": "5d7ffc3751214b46b5e763a003968121",
+      "requestPaymentType": "Cash",
+      "requestPaymentStatus": "Awaiting payment",
+      "requestStatus": "Pending",
+      "requestSelectedDate": "2023-05-24",
+      "requestNumberOfAtteendes": "15",
+      "requestNeedRoom": "True",
+      "requestRoomName": "The Meat Eaters Room"
+    },
+    {
+      "requestID": "200cde",
+      "requestCompanyName": "Swian",
+      "requestProgramID": "60ea8e87fe784db8abf6f76da95e5aa5",
+      "requestPaymentType": "Invoice",
+      "requestPaymentStatus": "Awaiting payment",
+      "requestStatus": "Confirmed",
+      "requestSelectedDate": "2023-05-26",
+      "requestNumberOfAtteendes": "15",
+      "requestNeedRoom": "True",
+      "requestRoomName": "The Pepperoni Room"
+    }
+  ],
+  "listOfRequestsApproved": [],
+  "listOfRequestsDenied": []
+},{
+  "_id": {
+    "$oid": "6462770fee9c9e0ffef7e25e"
+  },
+  "employeeID": "4b281c30eb9e45b8b86e5b0c67ce43d7",
+  "employeeName": "Mark",
+  "employeeEmail": "mark@gmail.com",
+  "employeePassword": "qwerty",
+  "listOfRequests": [],
+  "listOfRequestsApproved": [],
+  "listOfRequestsDenied": []
+},{
+  "_id": {
+    "$oid": "6462770fee9c9e0ffef7e25b"
+  },
+  "employeeID": "a9a5dcd79e564bdab4a2f1fb6ee227ef",
+  "employeeName": "Derrick",
+  "employeeEmail": "derrick@gmail.com",
+  "employeePassword": "1234",
+  "listOfRequests": [
+    {
+      "requestID": "5ceb94f497eb4414b2cb69661473e679",
+      "clientName": "billy",
+      "trainingProgram": "msteams",
+      "requestStatus": true,
+      "requestDate": "15/02/2023",
+      "requestTime": "6:33:26pm"
+    }
+  ],
+  "listOfRequestsApproved": [],
+  "listOfRequestsDenied": []
+},{
+  "_id": {
+    "$oid": "6462770fee9c9e0ffef7e25d"
+  },
+  "employeeID": "b4153a8e03f545d5b97e3212678e76b2",
+  "employeeName": "Kate",
+  "employeeEmail": "kate@gmail.com",
+  "employeePassword": "abcd",
+  "listOfRequests": [
+    {
+      "requestID": "78b4a9774c6748a9b563cfbf6391d3d5",
+      "clientName": "Daniel",
+      "trainingProgram": "Leadership and Management",
+      "requestStatus": true,
+      "requestDate": "28/06/2023",
+      "requestTime": "2:22:11pm"
+    },
+    {
+      "requestID": "d9de9257e2df43a3bcb033e324ab8e9e",
+      "clientName": "Sophia",
+      "trainingProgram": "Emotional Intelligence",
+      "requestStatus": true,
+      "requestDate": "02/07/2023",
+      "requestTime": "8:45:35am"
+    },
+    {
+      "requestID": "d4c455a401e148a9b4d9636fabc69f1a",
+      "clientName": "Oliver",
+      "trainingProgram": "Business Writing",
+      "requestStatus": false,
+      "requestDate": "10/07/2023",
+      "requestTime": "11:30:00am"
+    },
+    {
+      "requestID": "f4d0315e716546f0bb9869dc64a50b8e",
+      "clientName": "Emma",
+      "trainingProgram": "Strategy and Innovation",
+      "requestStatus": true,
+      "requestDate": "14/07/2023",
+      "requestTime": "3:15:00pm"
+    },
+    {
+      "requestID": "87ba68f9b7fc481e8b7ed4255daed8db",
+      "clientName": "William",
+      "trainingProgram": "Business Etiquette",
+      "requestStatus": false,
+      "requestDate": "20/07/2023",
+      "requestTime": "9:30:00am"
+    },
+    {
+      "requestID": "c1d41dc0fda745139e0ee02f5f47c9bf",
+      "clientName": "Ava",
+      "trainingProgram": "Business Analysis",
+      "requestStatus": true,
+      "requestDate": "26/07/2023",
+      "requestTime": "1:00:00pm"
+    },
+    {
+      "requestID": "7f8f879f3b76431d881ca75aa166a810",
+      "clientName": "James",
+      "trainingProgram": "Management Information Systems",
+      "requestStatus": true,
+      "requestDate": "01/08/2023",
+      "requestTime": "10:30:00am"
+    },
+    {
+      "requestID": "8a14e5fc6c9340d4a96a364ce0126de6",
+      "clientName": "Isabella",
+      "trainingProgram": "Management Information Systems",
+      "requestStatus": false,
+      "requestDate": "07/08/2023",
+      "requestTime": "2:45:00pm"
+    },
+    {
+      "requestID": "82e1b696f6144c8e9c5e964b9a5a0f56",
+      "clientName": "Ethan",
+      "trainingProgram": "Business Etiquette",
+      "requestStatus": true,
+      "requestDate": "12/08/2023",
+      "requestTime": "9:00:00am"
+    }
+  ],
+  "listOfRequestsApproved": [],
+  "listOfRequestsDenied": []
+},{
+  "_id": {
+    "$oid": "6462770fee9c9e0ffef7e25f"
+  },
+  "employeeID": "17af354d75d84c508d5c909fa9a2f1a3",
+  "employeeName": "Sandra",
+  "employeeEmail": "sandra@gmail.com",
+  "employeePassword": "p@ssw0rd",
+  "listOfRequests": [
+    {
+      "requestID": "72b4c978d5a049f39e9f96dc76d31a6a",
+      "clientName": "David",
+      "trainingProgram": "msteams",
+      "requestStatus": false,
+      "requestDate": "14/06/2023",
+      "requestTime": "3:50:00pm"
+    }
+  ],
+  "listOfRequestsApproved": [],
+  "listOfRequestsDenied": []
+}]

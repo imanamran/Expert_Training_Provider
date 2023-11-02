@@ -1,0 +1,12 @@
+{
+        "require": {
+                "mongodb/mongodb": "^1.15",
+                "get-stream/stream-chat": "*",
+                "phpmailer/phpmailer": "^6.8",
+                "google/apiclient": "^2.0",
+                "league/oauth2-google": "^4.0",
+                "league/oauth2-client": "^2.7",
+                "sendgrid/sendgrid": "^8.0",
+                "tecnickcom/tcpdf": "^6.6"
+        }
+}

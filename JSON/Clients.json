@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "64617cca0bf43c4f11eb012f"
+  },
+  "clientID": "6182cd595b687",
+  "clientToken": "5ac098fcd9cbd6153416239b87685d97dab971b54623b4a9de8996a587f7fc2702b7059a60d134f90ce1a3eda4e0304af65a",
+  "clientName": "Iman Amran",
+  "clientEmail": "imanamran02@gmail.com",
+  "clientPhone": "+601111437256",
+  "clientPassword": "123",
+  "clientFavRooms": [
+    "The Pepperoni Room",
+    "The Meat Eaters Room",
+    "The Vegeterian Room"
+  ],
+  "listOfRequests": [
+    {
+      "requestID": "2e39cb",
+      "requestCompanyName": "Hubridy",
+      "requestProgramID": "bbe71ac8bca34fa8b89f8726ac4d4a5d",
+      "requestPaymentType": "Cash",
+      "requestPaymentStatus": "Awaiting payment",
+      "requestStatus": "Confirmed",
+      "requestSelectedDate": "2023-05-24",
+      "requestNumberOfAtteendes": "4",
+      "requestNeedRoom": "True",
+      "requestRoomName": "The Pepperoni Room"
+    },
+    {
+      "requestID": "b95d0f",
+      "requestCompanyName": "Swinburne",
+      "requestProgramID": "8a2fe2d45a2a4977a386ad8617f5d2e3",
+      "requestPaymentType": "Cash",
+      "requestPaymentStatus": "Awaiting payment",
+      "requestStatus": "Denied",
+      "requestSelectedDate": "2023-05-24",
+      "requestNumberOfAtteendes": "5",
+      "requestNeedRoom": "True",
+      "requestRoomName": "The Pepperoni Room"
+    },
+    {
+      "requestID": "2ba924",
+      "requestCompanyName": "Hubridy",
+      "requestProgramID": "edfd361b238c47e78ec4e23d85979307",
+      "requestPaymentType": "Invoice",
+      "requestPaymentStatus": "Awaiting payment",
+      "requestStatus": "Cancelled",
+      "requestSelectedDate": "2023-05-24",
+      "requestNumberOfAtteendes": "3",
+      "requestNeedRoom": "True",
+      "requestRoomName": "The Meat Eaters Room"
+    },
+    {
+      "requestID": "750f08",
+      "requestCompanyName": "Swian",
+      "requestProgramID": "5d7ffc3751214b46b5e763a003968121",
+      "requestPaymentType": "Cash",
+      "requestPaymentStatus": "Awaiting payment",
+      "requestStatus": "Pending",
+      "requestSelectedDate": "2023-05-24",
+      "requestNumberOfAtteendes": "15",
+      "requestNeedRoom": "True",
+      "requestRoomName": "The Meat Eaters Room"
+    },
+    {
+      "requestID": "200cde",
+      "requestCompanyName": "Swian",
+      "requestProgramID": "60ea8e87fe784db8abf6f76da95e5aa5",
+      "requestPaymentType": "Invoice",
+      "requestPaymentStatus": "Awaiting payment",
+      "requestStatus": "Confirmed",
+      "requestSelectedDate": "2023-05-26",
+      "requestNumberOfAtteendes": "15",
+      "requestNeedRoom": "True",
+      "requestRoomName": "The Pepperoni Room"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6461f5ad0bf43c4f11eb0136"
+  },
+  "clientID": "82cd595b687",
+  "clientToken": "808e5a2b137c0b46b89e39b3f921edfce1c289d72ee6adf3760d77499c5ac4f0fcdc3db5faeae235002de7779c2f91e61e90",
+  "clientName": "Nickle Cik",
+  "clientEmail": "nicklecik@gmail.com",
+  "clientPhone": "+601111437256",
+  "clientPassword": "iman123",
+  "clientFavRooms": [],
+  "listOfRequests": [
+    {
+      "requestID": "1",
+      "requestProgramID": "9e2fbf9fd67c410a811d1a2c57eaec7c",
+      "requestPaymentType": "Cash",
+      "requestPaymetsStatus": "Completed",
+      "requestStatus": "Approved",
+      "requestSelectedDate": "2023-04-13",
+      "requestNumberOfAtteendes": "1",
+      "requestNeedRoom": "True",
+      "requestRoomName": ""
+    },
+    {
+      "requestID": "2",
+      "requestProgramID": "5d7ffc3751214b46b5e763a003968121",
+      "requestPaymentType": "Cash",
+      "requestPaymentStatus": "",
+      "requestStatus": "Pending",
+      "requestSelectedDate": "2023-04-13",
+      "requestNumberOfAtteendes": "1",
+      "requestNeedRoom": "True",
+      "requestRoomName": ""
+    },
+    {
+      "requestID": "3",
+      "requestProgramID": "60ea8e87fe784db8abf6f76da95e5aa5",
+      "requestPaymentType": "Cash",
+      "requestPaymentStatus": "",
+      "requestStatus": "Denied",
+      "requestSelectedDate": "2023-04-13",
+      "requestNumberOfAtteendes": "1",
+      "requestNeedRoom": "True",
+      "requestRoomName": ""
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64642e9eac4acc9769065c22"
+  },
+  "clientID": "4642e9ed14c7",
+  "clientToken": "",
+  "clientName": "Amirah Izzati",
+  "clientEmail": "amirah@gmail.com",
+  "clientPhone": "1111437256",
+  "clientPassword": "iman123",
+  "clientFavRooms": [],
+  "listOfRequests": []
+}]
